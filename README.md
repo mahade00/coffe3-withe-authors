@@ -1,3 +1,9 @@
+# coffe-with-authors
+
+- Know about authors
+- See their details
+- Make a coffe meeting with thme one click
+
 ### `coffe-with-author-react-app`
 
 This app is bulid with React. Sepcially focused on using React [useState()](https://reactjs.org/docs/hooks-state.html) and [useEffect()](https://reactjs.org/docs/hooks-effect.html).
