@@ -1,0 +1,11 @@
+.cart{
+    margin-top: 50px;
+    margin-right: 70px;
+    height: 250px;
+    width: 330px;
+    padding-top: 23px;
+    text-align: center;
+    background-color: white;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    border-radius: 15px;
+}

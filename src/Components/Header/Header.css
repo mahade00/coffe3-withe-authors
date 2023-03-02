@@ -1,0 +1,25 @@
+.header{
+    height: 251px;
+    width: 80%;    
+    margin: auto;
+    margin-top: 35px;
+    color:white;
+    text-align: center;
+    line-height: 15px;
+    background-color: #478a0b;
+    /* border: 3px solid seagreen; */
+    border-radius: 15px;
+    display: flex;
+}
+.author{
+ padding-top: 26px;
+ padding-left: 100px;
+}
+.header img{
+    width: 331px;
+        height: 336px;
+        padding-left: 208px;
+        padding-bottom: 63px;
+        margin-top: -40px;
+    
+}

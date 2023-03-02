@@ -1,0 +1,42 @@
+.author-detail{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    margin-top: 25px;
+    margin-left: 75px;
+    margin-bottom: 30px;
+    border-radius: 10px;
+}
+.author-detail img{
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+}
+.each-author{
+    text-align: center;
+ width: 250px;
+background-color: white;
+border-radius: 10px;
+ box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+padding-bottom: 10px;
+padding-top:10px ;
+}
+.each-author span{
+    font-weight: bold;
+}
+.each-author button{
+    width: 150px;
+    height: 40px;
+    background-color: #0D63F3;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.autor-icon{
+    color: gray;
+    cursor: pointer;
+}
+.each-author:hover{
+    color:blue;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
